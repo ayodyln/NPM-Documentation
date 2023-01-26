@@ -1,5 +1,3 @@
-# NPM Documentation
-
 ## What is NPM? What does it do? Why is it an important tool?
 
 [Node Package Manager](https://www.npmjs.com/about) (NPM), is a tool that was designed for NodeJS and developers who want to publish/use packages. NPM is a massive software registry that is comprised of _packages_, which are written code by other developers. Packages are usually libraries or frameworks that are available to be installed via the NPM ecosystem. The registrty's packages can be made for front-end, mobile, node, and many more types of applications. Running `$ npm install <package>` will fetch that package from the registry, and install it locally for your project.
