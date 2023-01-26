@@ -1,0 +1,22 @@
+{
+  "name": "npm-documentation",
+  "version": "1.0.0",
+  "description": "NPM Documentation assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello World! 😃\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayodyln/NPM-Documentation.git"
+  },
+  "author": "Dylan Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayodyln/NPM-Documentation/issues"
+  },
+  "homepage": "https://github.com/ayodyln/NPM-Documentation#readme",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
